@@ -1,4 +1,4 @@
-TestAUG
+TestAUGTest
 name: "CaffeNet"
 input: "data"
 input_dim: 1
