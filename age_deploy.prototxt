@@ -1,4 +1,4 @@
-TestAUG21ST2024_New
+TestAUG
 name: "CaffeNet"
 input: "data"
 input_dim: 1
